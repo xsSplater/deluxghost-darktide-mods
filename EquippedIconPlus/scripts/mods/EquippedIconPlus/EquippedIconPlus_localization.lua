@@ -7,7 +7,7 @@ return {
 	mod_description = {
 		en = "Show equipped icons for items in other loadouts and customize icons color.",
 		["zh-cn"] = "显示其他配装内物品的已装备图标，并自定义图标颜色。",
-		ru = "Equipped Icon+ - Показывает экипированные значки для предметов в других наборах и позволяет настроить цвет значков.",
+		ru = "Equipped Icon+ - Показывает значки для экипированных предметов в других наборах и позволяет настроить цвет значков.",
 	},
 	opt_active_color = {
 		en = "Equipped icon color (active loadout)",
